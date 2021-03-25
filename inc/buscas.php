@@ -16,6 +16,7 @@ $arr=[
     'extensão'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
     'farmácia (são joão)'=>'https://www.saojoaofarmacias.com.br/search.html?query=%s&type=lowest',
     'fricke'=>'https://www.loja.fricke.com.br/loja/busca.php?palavra_busca=%s',
+    'genius'=>'https://genius.com/search?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
@@ -33,6 +34,7 @@ $arr=[
     'tld-list'=>'https://tld-list.com/tld/%s',
     'twitter'=>'https://twitter.com/search?q=%s+lang%3Apt%20filter%3Averified&src=typd&f=live&vertical=default',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
+    'wikipedia'=>'https://pt.wikipedia.org/wiki/Special:Search?search=%s&go=Go&ns0=1'
 ];
 ksort($arr);
 return $arr;
