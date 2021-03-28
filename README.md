@@ -14,10 +14,12 @@ Formulário de busca em diversos sites
 1. cdnjs
 1. dailymotion
 1. discogs
+1. docs em espanhol
 1. emojipedia
 1. extensão
 1. farmácia (são joão)
 1. fricke
+1. genius
 1. github
 1. globo play
 1. icone
@@ -35,3 +37,4 @@ Formulário de busca em diversos sites
 1. tld-list
 1. twitter
 1. whosampled
+1. wikipedia
