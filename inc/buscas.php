@@ -21,7 +21,7 @@ $arr=[
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
-    'icone'=>'https://fontawesome.com/icons?d=gallery&p=2&q=%s&s=brands,duotone,light,regular,solid&m=free',
+    'icon'=>'https://fontawesome.com/icons?d=gallery&p=2&q=%s&s=brands,duotone,light,regular,solid&m=free',
     'infopedia'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',
     'last.fm'=>'https://www.last.fm/search?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
