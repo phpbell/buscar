@@ -12,7 +12,7 @@ $arr=[
     'cdnjs'=>'https://cdnjs.com/libraries?q=%s',
     'dailymotion'=>'https://www.dailymotion.com/search/%s/videos',
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
-    'docs em espanhol'=>'https://www.documaniatv.com/search.php?keywords=%',
+    'docs em espanhol'=>'https://www.documaniatv.com/search.php?keywords=%s',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
     'extensão'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
     'farmácia (são joão)'=>'https://www.saojoaofarmacias.com.br/search.html?query=%s&type=lowest',
