@@ -31,6 +31,7 @@ $arr=[
     'music'=>'https://music.youtube.com/search?q=%s',
     'packagist'=>'https://packagist.org/?query=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
+    'quanto custa'=>'https://quantocustaum.com.br/?s=%s',
     'scihub'=>'https://scihubtw.tw/%s',
     'sinônimos'=>'https://www.sinonimos.com.br/busca.php?q=%s',
     'tld-list'=>'https://tld-list.com/tld/%s',
