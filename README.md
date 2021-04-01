@@ -36,7 +36,7 @@ Formulário de busca em diversos sites
 1. quanto custa
 1. scihub
 1. sinônimos
-1. tld-list
+1. tld
 1. twitter
 1. whosampled
 1. wikipedia
