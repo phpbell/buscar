@@ -37,7 +37,8 @@ $arr=[
     'tld'=>'https://tld-list.com/tld/%s',
     'twitter'=>'https://twitter.com/search?q=%s+lang%3Apt%20filter%3Averified&src=typd&f=live&vertical=default',
     'whosampled'=>'https://www.whosampled.com/search/?q=%s',
-    'wikipedia'=>'https://pt.wikipedia.org/wiki/Special:Search?search=%s&go=Go&ns0=1'
+    'username'=>'http://localhost/username/index.php?user=%s',
+    'wikipedia'=>'https://pt.wikipedia.org/wiki/Special:Search?search=%s&go=Go&ns0=1',
 ];
 ksort($arr);
 return $arr;
