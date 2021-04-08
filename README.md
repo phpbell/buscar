@@ -15,7 +15,7 @@ Formulário de busca em diversos sites
 1. cdnjs
 1. dailymotion
 1. discogs
-1. docs em espanhol
+1. docs (em espanhol)
 1. emojipedia
 1. extensão
 1. farmácia (são joão)
