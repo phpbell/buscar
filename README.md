@@ -31,6 +31,7 @@ Formulário de busca em diversos sites
 1. maps (google)
 1. mercado livre
 1. music
+1. oembed
 1. packagist
 1. php
 1. quanto custa
