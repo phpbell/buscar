@@ -21,8 +21,8 @@ $arr=[
     'genius'=>'https://genius.com/search?q=%s',
     'github'=>'https://github.com/search?q=+%s+&type=repositories',
     'globo play'=>'https://globoplay.globo.com/busca/?q=%s',
-    'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'icon'=>'https://fontawesome.com/icons?d=gallery&p=2&q=%s&s=brands,duotone,light,regular,solid&m=free',
+    'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'infopedia'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',
     'last.fm'=>'https://www.last.fm/search?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
@@ -39,9 +39,9 @@ $arr=[
     'tld'=>'https://tld-list.com/tld/%s',
     'tpb'=>'https://thepiratebay.org/search.php?q=%s&all=on&search=Pirate+Search&page=0&orderby=',
     'twitter'=>'https://twitter.com/search?q=%s+lang%3Apt%20filter%3Averified&src=typd&f=live&vertical=default',
-    'whosampled'=>'https://www.whosampled.com/search/?q=%s',
     'username'=>'http://localhost/username/index.php?user=%s',
-    'wikipedia'=>'https://pt.wikipedia.org/wiki/Special:Search?search=%s&go=Go&ns0=1',
+    'whosampled'=>'https://www.whosampled.com/search/?q=%s',
+    'wikipedia'=>'https://duckduckgo.com/?q=%s+site%3Awikipedia.org&ia=web',
 ];
 ksort($arr);
 return $arr;
