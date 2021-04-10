@@ -37,6 +37,7 @@ Formulário de busca em diversos sites
 1. quanto custa
 1. scihub
 1. sinônimos
+1. so
 1. tld
 1. tpb
 1. twitter

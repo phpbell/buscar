@@ -35,6 +35,7 @@ $arr=[
     'quanto custa'=>'https://quantocustaum.com.br/?s=%s',
     'scihub'=>'https://scihubtw.tw/%s',
     'sinônimos'=>'https://www.sinonimos.com.br/busca.php?q=%s',
+    'so'=>'https://duckduckgo.com/?q=%s+site%3Astackoverflow.com&ia=web',
     'tld'=>'https://tld-list.com/tld/%s',
     'tpb'=>'https://thepiratebay.org/search.php?q=%s&all=on&search=Pirate+Search&page=0&orderby=',
     'twitter'=>'https://twitter.com/search?q=%s+lang%3Apt%20filter%3Averified&src=typd&f=live&vertical=default',
