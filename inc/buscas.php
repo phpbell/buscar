@@ -24,6 +24,7 @@ $arr=[
     'icon'=>'https://fontawesome.com/icons?d=gallery&p=2&q=%s&s=brands,duotone,light,regular,solid&m=free',
     'imdb'=>'https://www.imdb.com/find?q=%s&ref_=nv_sr_sm',
     'infopedia'=>'https://www.infopedia.pt/dicionarios/lingua-portuguesa/%s',
+    'informar'=>'https://www.dicionarioinformal.com.br/%s/',
     'last.fm'=>'https://www.last.fm/search?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
