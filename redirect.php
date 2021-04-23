@@ -10,7 +10,10 @@ $key=@$_GET['key'];
 if(isset($buscas[$key])){
     //https://www.php.net/manual/pt_BR/function.str-replace.php
     $str=$buscas[$key];
-    if($key=='dailymotion'){
+    if(
+    $key=='dailymotion' OR
+    $key=='tpb'
+    ){
         $q=urldecode($q);
     }
     $str=str_replace("%s",$q,$str);
