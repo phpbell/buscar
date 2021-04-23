@@ -26,7 +26,7 @@ Formulário de busca em diversos sites
 1. icon
 1. imdb
 1. infopedia
-1. informar
+1. informal
 1. last.fm
 1. letras
 1. maps (google)
