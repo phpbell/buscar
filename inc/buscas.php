@@ -27,6 +27,7 @@ $arr=[
     'informal'=>'https://www.dicionarioinformal.com.br/%s/',
     'last.fm'=>'https://www.last.fm/search?q=%s',
     'letras'=>'https://www.letras.mus.br/?q=%s',
+    'mdn'=>'https://developer.mozilla.org/en-US/search?q=%s',
     'maps (google)'=>'https://www.google.com.br/maps?hl=pt&q=%s',
     'mercado livre'=>'https://lista.mercadolivre.com.br/%s/_OrderId_PRICE',  
     'music'=>'https://music.youtube.com/search?q=%s',
