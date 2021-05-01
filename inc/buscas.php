@@ -35,6 +35,7 @@ $arr=[
     'packagist'=>'https://packagist.org/?query=%s',
     'php'=>'https://www.php.net/manual-lookup.php?pattern=%s&scope=quickref',
     'quanto custa'=>'https://quantocustaum.com.br/?s=%s',
+    'reclameaqui'=>'https://www.reclameaqui.com.br/busca/?q=%s',
     'scihub'=>'https://scihubtw.tw/%s',
     'sinônimos'=>'https://www.sinonimos.com.br/busca.php?q=%s',
     'so'=>'https://duckduckgo.com/?q=%s+site%3Astackoverflow.com&ia=web',
