@@ -14,7 +14,6 @@ Formulário de busca em diversos sites
 1. buscape
 1. cdnjs
 1. dailymotion
-1. dicio (infopedia)
 1. discogs
 1. docs (em espanhol)
 1. emojipedia
@@ -26,6 +25,7 @@ Formulário de busca em diversos sites
 1. globo play
 1. icon
 1. imdb
+1. infopedia (dicionario)
 1. informal
 1. last.fm
 1. letras
