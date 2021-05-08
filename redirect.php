@@ -16,6 +16,13 @@ if(isset($buscas[$key])){
     ){
         $q=urldecode($q);
     }
+    if(
+    $key=='informal'
+    ){
+        $q=urldecode($q);
+        $q=str_replace(" ","-",$q);
+        $q=urlencode($q);
+    }    
     $str=str_replace("%s",$q,$str);
     header('Location: '.$str);
 }else{
