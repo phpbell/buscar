@@ -15,7 +15,7 @@
                 ini_set('display_errors', 1);
                 ini_set('display_startup_errors', 1);
                 error_reporting(E_ALL);
-                $buscas=require 'inc/buscas.php';
+                $buscas=require 'buscas.php';
                 foreach ($buscas as $key => $value) {
                     if($key=='twitter'){
                         $sel=' selected';
