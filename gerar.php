@@ -1,7 +1,7 @@
 <?php
 $title='Buscar';
 $desc='Formulário de busca em diversos sites';
-$arr=require 'inc/buscas.php';
+$arr=require 'buscas.php';
 $sites=null;
 foreach ($arr as $key => $value) {
     $sites.='1. '.$key.PHP_EOL;

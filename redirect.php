@@ -2,7 +2,7 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-$buscas=require 'inc/buscas.php';
+$buscas=require 'buscas.php';
 $q=@$_GET['q'];
 $q=trim($q);
 $q=urlencode($q);
