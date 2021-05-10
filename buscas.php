@@ -15,7 +15,7 @@ $arr=[
     'discogs'=>'https://www.discogs.com/search/?q=%s&type=all',
     'docs (em espanhol)'=>'https://www.documaniatv.com/search.php?keywords=%s',
     'emojipedia'=>'https://emojipedia.org/search/?q=%s',
-    'extensão'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension',
+    'extensão'=>'https://addons.mozilla.org/en-US/firefox/search/?q=%s&type=extension&sort=users',
     'farmácia (são joão)'=>'https://www.saojoaofarmacias.com.br/search.html?query=%s&type=lowest',
     'fricke'=>'https://www.loja.fricke.com.br/loja/busca.php?palavra_busca=%s',
     'genius'=>'https://genius.com/search?q=%s',
