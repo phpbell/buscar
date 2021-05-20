@@ -38,6 +38,7 @@ $arr=[
     'quanto custa'=>'https://quantocustaum.com.br/?s=%s',
     'reclameaqui'=>'https://www.reclameaqui.com.br/busca/?q=%s',
     'scihub'=>'https://scihubtw.tw/%s',
+    'significados'=>'https://www.significados.com.br/?s=%s',
     'sinônimos'=>'https://www.sinonimos.com.br/busca.php?q=%s',
     'so'=>'https://duckduckgo.com/?q=%s+site%3Astackoverflow.com&ia=web',
     'tld'=>'https://tld-list.com/tld/%s',
